@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate Data Analytics Student** at Denison University  
 
-**Top Hard Skills** - 💻 Python | SQL | Data Visualization 
+**Top Hard Skills** - 💻 Python | SQL | RStudio | Data Visualization 
 📊 
 
 Passionate about converting messy data into a clean format, and then subsequently doing thorough, in-depth analysis on data including visualizations and statistical modeling (e.g. linear regression, logistic regression, linear/non-linear optimization)
