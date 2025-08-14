@@ -14,7 +14,7 @@ Passionate about converting messy data into a clean format, and then subsequentl
 - [Denison Wellness Analysis](https://github.com/Platt-John/Denison-Wellness-Analysis) 🧠 — Analyzed large-scale student wellness survey data to inform campus health initiatives.
 
 
-:muscle: My biggest strength is my analytical thinking, enabling me to solve problems in a meticulous and systematic manner. In solving problems, I follow a 5 step framework of think, prepare, initial execution, execution, and reflect/share. Applying this framework to Data Analysis, I successfully completed an independent research project (Predictors Ohio XC Success) where I went from thinking about my desire to learn about the top predictors of Ohio high school Cross Country team success to presenting the final product to a diverse audience at the 2022 Denison University Summer Scholars Symposium. 
+:muscle: My biggest strength is my analytical thinking, enabling me to solve problems in a meticulous and systematic manner. In solving problems, I follow a 5 step framework of think, prepare, initial execution, execution, and reflect/share. Applying this framework to Data Analysis, I successfully completed an independent research project (Predictors Ohio XC Success) where I went from thinking about my desire to learn about the top predictors of Ohio high school Cross Country team success to presenting the final product (poster) to a diverse audience at the 2022 Denison University Summer Scholars Symposium. 
 
 🏔 In my free time, I like to play video games on PC, cook meals and write up original recipes, and exercise 6 or more hours per week. 
 
