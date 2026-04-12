@@ -1,6 +1,6 @@
 # Hi, I'm John 👋 
 
-🎓 **Undergraduate Data Analytics Student** at Denison University  
+🎓 **Data Analytics Graduate** from Denison University  
 
 **Top Hard Skills** - 💻 Python | SQL | RStudio | Data Visualization 
 📊 
